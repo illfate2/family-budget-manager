@@ -1,0 +1,14 @@
+//
+// Created by illfate on 12/12/20.
+//
+
+#ifndef FAMILY_BUDGET_MANAGER_INCOMEREPORT_H
+#define FAMILY_BUDGET_MANAGER_INCOMEREPORT_H
+
+
+class IncomeReport {
+
+};
+
+
+#endif //FAMILY_BUDGET_MANAGER_INCOMEREPORT_H
